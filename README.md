@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I'm Varya 👋
 
 
 [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anything116)          [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00o11_2)
