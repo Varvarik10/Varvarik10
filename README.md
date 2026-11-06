@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anything116)          [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00o11_2)
 
 
-**Varvarik10/Varvarik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 About me
 
 - 🌱 I’m currently learning TypeScript
